@@ -2,7 +2,7 @@
 ---
 # *Solutions*
 ---
-## Python
+# [Python](https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bstatus%5D%5B%5D=solved)
 ---
 * [Introduction](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Introduction.py)
 * [Basic Data Types](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Basic_Data_Types.py)
