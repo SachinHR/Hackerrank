@@ -1,10 +1,10 @@
-# Problem 1
+# Problem 1 : List Comprehensions
 
 #Solution 1
 x,y,z,n = (int(input()) for i in range(4))
 print([[a, b, c] for a in range(0,x+1) for b in range(0,y+1) for c in range(0,z+1) if (a + b + z != n)])
-_____________________________________________________________________________________________________________________________
-# Problem 2
+____________________________________________________________________________________________________________________________
+# Problem 2 : Find the Runner-Up Score!
 
 #Solution 1
 n = int(input())
@@ -21,7 +21,7 @@ while max(a) == m:
     a.remove(max(a))
 print(max(a))
 _____________________________________________________________________________________________________________________________
-# Problem 3
+# Problem 3 : Nested Lists
 
 #Solution 1
 n = int(input())
@@ -29,7 +29,7 @@ arr = [[input(),float(input())] for _ in range(n)]
 second_highest = sorted(list(set([marks for name, marks in arr])))[1]
 print('\n'.join([a for a,b in sorted(arr) if b == second_highest]))
 _____________________________________________________________________________________________________________________________
-# Problem 4
+# Problem 4 : Finding the percentage
 
 #Solution 1
 N = int(input())
@@ -40,7 +40,7 @@ for _ in range(N):
 n = input()
 print("{0:.2f}".format(sum(d[n])/len(d[n])))
 _____________________________________________________________________________________________________________________________
-# Problem 5
+# Problem 5 : Lists
 
 #Solution 1
 n = int(input())
@@ -79,7 +79,7 @@ for _ in range(n):
     else:
         print(l)
 _____________________________________________________________________________________________________________________________
-# Problem 6
+# Problem 6 : Tuples
 
 #Solution 1
 n = int(input())
