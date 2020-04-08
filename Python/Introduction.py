@@ -1,8 +1,8 @@
-# Problem 1
+# Problem 1 : Say "Hello, World!" With Python
 
 print("Hello, World!)
 _____________________________________________________________________________________________________________________________
-# Problem 2
+# Problem 2 : Python If-Else
       
 #Solution 1
 N = int(input())
@@ -21,7 +21,7 @@ N = int(input())
 check = { True : "Not Weird", False : "Weird" }
 print(check[ N%2 == 0 and ((N in range(2,5)) or (N > 20)) ])
 _____________________________________________________________________________________________________________________________
-# Problem 3
+# Problem 3 : Arithmetic Operators
       
 #Solution 1
 a = int(input())
@@ -35,14 +35,14 @@ a = int(input())
 b = int(input())
 print("{0} \n{1} \n{2}".format(a+b, a-b, a*b))
 _____________________________________________________________________________________________________________________________
-# Problem 4
+# Problem 4 : Python: Division
      
 #Solution 1
 a = 4
 b = 3
 print("{0}\n{1}".format(a//b, a/b))
 _____________________________________________________________________________________________________________________________
-# Problem 5
+# Problem 5 : Loops
       
 #Solution 1
 n = int(input())
@@ -57,7 +57,7 @@ print(*[num**2 for num in range(n)], sep='\n')
 n = int(input())
 [print(num**2) for num in range(n)]
 _____________________________________________________________________________________________________________________________
-# Problem 6
+# Problem 6 : Write a function
 
 #Solution 1
 def is_leap(year):
@@ -74,7 +74,7 @@ def is_leap(year):
 year = int(input())
 print(is_leap(year))
 _____________________________________________________________________________________________________________________________
-# Problem 7
+# Problem 7 : Print Function
 
 #Solution 1
 n = int(input())
