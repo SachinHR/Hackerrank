@@ -5,3 +5,4 @@
 ## Python
 ---
 * [Introduction](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Introduction.py)
+* [Basic Data Types](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Basic_Data_Types.py)
