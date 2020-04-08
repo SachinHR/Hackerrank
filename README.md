@@ -4,4 +4,4 @@
 ---
 ## Python
 ---
-* [Introduction](#Python/Introduction.py)
+* [Introduction](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Introduction.py)
