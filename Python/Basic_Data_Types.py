@@ -79,7 +79,7 @@ for _ in range(n):
     else:
         print(l)
 _____________________________________________________________________________________________________________________________
-# Problem 6 : [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)
+# Problem 6 : Tuples
 
 #Solution 1
 n = int(input())
