@@ -29,12 +29,20 @@ b = int(input())
 print(a + b)
 print(a - b)
 print(a * b)
+      
 #Solution 2
 a = int(input())
 b = int(input())
 print("{0} \n{1} \n{2}".format(a+b, a-b, a*b))
 _____________________________________________________________________________________________________________________________
 # Problem 4
+     
+#Solution 1
+a = 4
+b = 3
+print("{0}\n{1}".format(a//b, a/b))
+_____________________________________________________________________________________________________________________________
+# Problem 5
       
 #Solution 1
 n = int(input())
@@ -48,18 +56,6 @@ print(*[num**2 for num in range(n)], sep='\n')
 #Solution 3
 n = int(input())
 [print(num**2) for num in range(n)]
-_____________________________________________________________________________________________________________________________
-# Problem 5
-
-#Solution 1
-n = int(input())
-[print(num**2,end="") for num in range(n)]
-
-#Solution 2
-n = int(input())
-print(*[num**2 for num in range(n)], sep = "")
-#or
-print(*range(1, int(input())+1), sep='')
 _____________________________________________________________________________________________________________________________
 # Problem 6
 
@@ -81,5 +77,5 @@ ________________________________________________________________________________
 # Problem 7
 
 #Solution 1
-x,y,z,n = (int(input()) for i in range(4))
-print([[a, b, c] for a in range(0,x+1) for b in range(0,y+1) for c in range(0,z+1) if (a + b + z != n)])
+n = int(input())
+print(*range(1, int(input())+1), sep='')
