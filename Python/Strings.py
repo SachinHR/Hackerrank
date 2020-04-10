@@ -127,3 +127,53 @@ s = input()
 for x in s.split():
     s = s.replace(x, x.capitalize())
 print(s)
+_______________________________________________________________________________________________________________________________________
+# Problem 13 : The Minion Game
+
+#Solution 1
+s = input()
+vowel = 'AEIOU'
+kevsc = 0
+stuart = 0
+for i in range(len(s)):
+    if s[i] not in vowel:
+        stuart += (len(s) - i)
+    else:
+        kevsc += (len(s) - i)
+if kevsc > stuart:
+    print("kevsc ",kevsc)
+elif kevsc < stuart:
+    print("Stuart ",stuart)
+else:
+    print("Draw")
+
+#Solution 2
+s = input()
+vowel = "AEIOU"
+l = len(s)
+kevin = sum(len(s)-i for i in range(len(s)) if s[i] in vowel)
+stuart = len(s)*(len(s) + 1)//2 - kevin
+if kevin < stuart:
+	print('Stuart ',stuart)
+elif kevin > stuart:
+	print('Kevin ',kevin)
+else:
+	print("Draw")
+_______________________________________________________________________________________________________________________________________
+# Problem 14 : Merge the Tools!
+
+#Solution 1
+S = input()
+k = int(input())
+l = []
+t = [S[(k * i) : k + (k * i)] for i in range(len(S)//k)]
+for part in t:
+    d = {}
+    print("".join([d.setdefault(c,c) for c in part if c not in d]))
+
+#Solution 2
+s = input()
+n = int(input())
+for part in zip(*([iter(s)] * n)):
+    d = dict()
+    print("".join([d.setdefault(c,c) for c in part if c not in d]))
