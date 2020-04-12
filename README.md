@@ -8,8 +8,8 @@
 * [Basic Data Types](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Basic_Data_Types.py)
 * [Strings](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Strings.py)
 * [Sets](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Sets.py)
-* Math
-* Itertools
+* [Math](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Math.py)
+* [Itertools](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Itertools.py)
 * Collections
 * Date and Time
 * Errors and Exceptions
