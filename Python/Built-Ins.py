@@ -29,7 +29,6 @@ rows = [input() for _ in range(n)]
 k = int(input())
 print(*[row for row in sorted(rows, key = lambda row:int(row.split()[k]))],sep="\n")
 ____________________________________________________________________________________________________________________________________________
-'''
 # Problem 6 : ginortS
 
 #Solution 1
