@@ -10,11 +10,11 @@
 * [Sets](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Sets.py)
 * [Math](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Math.py)
 * [Itertools](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Itertools.py)
-* Collections
-* Date and Time
-* Errors and Exceptions
-* Classes
-* Built-Ins
+* [Collections](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Collections.py)
+* [Date and Time](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Date_and_Time.py)
+* [Errors and Exceptions](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Errors_and_Exceptions.py)
+* [Classes](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Classes.py)
+* [Built-Ins](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Built-Ins.py)
 * Python Functionals
 * Regex and Parsing
 * XML
