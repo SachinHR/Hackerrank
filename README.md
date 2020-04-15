@@ -15,9 +15,9 @@
 * [Errors and Exceptions](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Errors_and_Exceptions.py)
 * [Classes](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Classes.py)
 * [Built-Ins](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Built-Ins.py)
-* Python Functionals
-* Regex and Parsing
-* XML
-* Closures and Decorators
+* [Python Functionals](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Python_Functionals.py)
+* [Regex and Parsing](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Regex_and_Parsing.py)
+* [XML](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/XML.py)
+* [Closures and Decorators](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Closures_and_Decorators.py)
 * Numpy
 * Debugging
