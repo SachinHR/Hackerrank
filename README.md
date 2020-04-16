@@ -19,5 +19,5 @@
 * [Regex and Parsing](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Regex_and_Parsing.py)
 * [XML](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/XML.py)
 * [Closures and Decorators](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Closures_and_Decorators.py)
-* Numpy
-* Debugging
+* [Numpy](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Numpy.py)
+* [Debugging](https://github.com/SachinHR/Hackerrank_Solution/blob/master/Python/Debugging.py)
